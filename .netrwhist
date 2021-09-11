@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/anang/testpdf'
+let g:netrw_dirhist_4='/home/anang/cordova/seduluranapps/www'
+let g:netrw_dirhist_3='/home/anang/cordova/seduluranapps/www/js'
+let g:netrw_dirhist_2='/home/anang/cordova/seduluranapps/www/js/provider'
+let g:netrw_dirhist_1='/home/anang/.config/nvim'
